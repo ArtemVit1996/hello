@@ -1,0 +1,12 @@
+{
+  "name": "avityuk/328/hello",
+  "authors": [
+    {
+      "name": "Artem Vityuk",
+      "email": "avityuk@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
